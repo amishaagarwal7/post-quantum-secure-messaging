@@ -1,0 +1,13 @@
+{
+    "users": [
+        "amisa_ag",
+        "umid_aga"
+    ],
+    "messages": [
+        {
+            "sender": "amisa_ag",
+            "receiver": "umid_aga",
+            "text": "hi"
+        }
+    ]
+}
